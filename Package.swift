@@ -38,7 +38,7 @@ let package = Package(
     name: "swift-kafka-client",
     platforms: [
         .macOS(.v13),
-        .iOS(.v16),
+        .iOS(.v12),
         .watchOS(.v9),
         .tvOS(.v16),
     ],
